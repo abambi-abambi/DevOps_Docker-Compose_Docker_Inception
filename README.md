@@ -2,7 +2,7 @@
 
 Inception
 
-Read the subject_en.pdf and the checklist.pdf. They describe all about the project.
+Read the subject_en.pdf and the checklist.pdf. They describe all the project.
 
 
 But briefly:
